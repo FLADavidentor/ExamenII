@@ -1,11 +1,15 @@
 #include <iostream>
 
+#include "Ejercicio3.cpp"
+
 using namespace std;
 
-int main(int argc, char const *argv[])
+int main()
 {
-    /* code */
+    int llamadas = 0;
+
+    cout << "Cantidad de llamadas atendidas: ";
+    cin >> llamadas;
+    Incentivo(llamadas);
     return 0;
 }
-
-
