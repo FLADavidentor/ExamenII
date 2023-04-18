@@ -1,4 +1,4 @@
-/*Este es el archivo final*/
+/*Este es el archivo final.*/
 
 #include <iostream>
 #include "Ejercicio2.cpp"
