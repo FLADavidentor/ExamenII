@@ -2,7 +2,7 @@
 en una tienda por un artículo, considerando que tiene un descuento del 20%
 cuando se compran dos o más ejemplares del artículo.
 Recuerde calcular el 15% de I.V.A ,
-el subtotal y el total a pagar.  */
+el subtotal y el total a pagar. */
 #include <iostream>
 using namespace std;
 
