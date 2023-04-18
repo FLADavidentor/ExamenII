@@ -4,6 +4,7 @@ condiciones para recibir el incentivo entorno a las llamadas atendidas:.
 50<x<100= C$1000
 100<x<150= C$1500
 150<x=C$2000
+done
 */
 
 #include <iostream>
