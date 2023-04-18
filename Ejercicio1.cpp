@@ -10,28 +10,7 @@ float Descuento20(float Cantidadarticulos, float Precioarticulos);
 float Iva(float Cantidadarticulos, float Precioarticulos);
 float total(float Cantidadarticulos, float Precioarticulos);
 float subtotal(float Cantidadarticulos, float Precioarticulos);
-
-int main()
-
-{
-
-    float cantidadarticulos;
-    cout << "digite la cantidad de articulos a comprar" << endl;
-    cin >> cantidadarticulos;
-
-    float precioarticulo;
-    cout << "digite el precio por articulo " << endl;
-    cin >> precioarticulo;
-
-    cout << "el subtotal de su compra es de :" << subtotal(cantidadarticulos, precioarticulo) << endl;
-    cout << "el el iva sobre su compra es de : " << Iva(cantidadarticulos, precioarticulo) << endl;
-    cout << "el descuento sobre su compra es de : " << Descuento20(cantidadarticulos, precioarticulo) << endl;
-    cout << "el total de su compra es de : " << total(cantidadarticulos, precioarticulo) << endl;
-    return 0;
-}
-
 float total(float Cantidadarticulos, float Precioarticulos)
-
 {
     float totaliva;
     float totalcompra;
