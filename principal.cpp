@@ -1,3 +1,5 @@
+/*Este es el archivo principal*/
+
 #include <iostream>
 
 #include "Ejercicio3.cpp"
